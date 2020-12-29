@@ -3636,5 +3636,6 @@ $_LANG['orderForm']['idnNotEnabled'] = "Kami tidak mendukung nama domain interna
 
 $_LANG['store']['ssl']['landingPage']['secureInMinutes'] = "Amankan situs Anda dalam hitungan menit dengan penyediaan dan penerapan otomatis kami";
 
+$_LANG['emailMarketing']['optInMessage'] = "Kami ingin mengirimi Anda berita, informasi, dan penawaran khusus sesekali melalui email. Untuk bergabung dengan milis kami, cukup centang kotak di bawah ini. Anda dapat berhenti berlangganan kapan saja."; 
+
 ////////// End of english language file.  Do not place any translation strings below this line!
-// echo "END of File";

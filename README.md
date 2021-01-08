@@ -1,7 +1,7 @@
 # whmcs-indonesian
 access whmcs users in Indonesian
 
-whmcs version : 8.0.4
+whmcs version upto : 8.1.0
 just upload indonesian.php to lang folder
 
 ---
